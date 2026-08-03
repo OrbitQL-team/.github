@@ -6,7 +6,7 @@
   />
 </p>
 
-## Who We Are
+## 👥Who We Are
 
 **OrbitQL** is an independent team building open-source infrastructure for developers working with complex backend systems.
 
@@ -14,7 +14,7 @@ We believe critical software logic should not be scattered across services, hand
 
 Our team brings together two software engineers focused on backend architecture, databases, and APIs, and one product and business specialist focused on strategy, positioning, and community.
 
-## Our Projects
+## 🪐Our Projects
 
 ### OrbitQL
 
@@ -32,7 +32,7 @@ Our first project explores a more centralized way to define and enforce the rule
 
 > OrbitQL is currently evolving. More repositories, examples, and developer resources will be added as the project grows.
 
-## Links & Contacts
+## 🔗Links & Contacts
 
 <p>
   <a href="https://github.com/OrbitQL-team"><strong>GitHub Organization</strong></a>
