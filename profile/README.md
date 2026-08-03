@@ -1,5 +1,9 @@
 <p align="center">
-  <img src="./assets/orbitql-organization-banner.png" alt="OrbitQL — Centralize the chaos. Keep systems in orbit." width="100%" />
+  <img
+    src="./orbitql-organization-banner.png"
+    alt="OrbitQL — Centralize the chaos. Keep systems in orbit."
+    width="100%"
+  />
 </p>
 
 ## Who We Are
